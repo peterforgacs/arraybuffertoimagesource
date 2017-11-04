@@ -1,6 +1,6 @@
 {
 	"name": "arraybuffertoimagesource",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"description": "Turn an array buffer to a blob source.",
 	"license": "MIT",
 	"repository": "peterforgacs/arraybuffertoimagesource",
