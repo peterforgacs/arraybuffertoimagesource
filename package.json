@@ -1,0 +1,30 @@
+{
+	"name": "arraybuffertoimagesource",
+	"version": "0.0.0",
+	"description": "Turn an array buffer to a blob source.",
+	"license": "MIT",
+	"repository": "peterforgacs/arraybuffertoimagesource",
+	"author": {
+		"name": "Peter Forgacs",
+		"email": "peter.forgacs3@gmail.com",
+		"url": "peterforgacs.github.io"
+	},
+	"engines": {
+		"node": ">=4"
+	},
+	"scripts": {
+		"test": "xo && nyc ava"
+	},
+	"files": [
+		"index.js"
+	],
+	"keywords": [
+		""
+	],
+	"dependencies": {},
+	"devDependencies": {
+		"ava": "^0.20.0",
+		"nyc": "^11.0.0",
+		"xo": "^0.18.2"
+	}
+}
